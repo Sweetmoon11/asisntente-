@@ -1,0 +1,3 @@
+@echo off
+echo Asistente de Voz - Iniciando...
+streamlit run main.py
